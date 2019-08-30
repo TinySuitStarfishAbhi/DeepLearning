@@ -1,2 +1,2 @@
 # DeepLearning
-Repository for small Deep Learning usage.
+Repository for small Deep Learning works. 
